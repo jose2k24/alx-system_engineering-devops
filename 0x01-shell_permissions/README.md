@@ -1,1 +1,0 @@
-\nCoding shell permissions\n
